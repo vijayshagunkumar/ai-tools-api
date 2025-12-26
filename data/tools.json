@@ -1,0 +1,17 @@
+[
+  {
+    "name": "ChatGPT",
+    "url": "https://chat.openai.com",
+    "score": 0.93
+  },
+  {
+    "name": "Claude AI",
+    "url": "https://claude.ai",
+    "score": 0.91
+  },
+  {
+    "name": "Midjourney",
+    "url": "https://midjourney.com",
+    "score": 0.89
+  }
+]
